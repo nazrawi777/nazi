@@ -1,0 +1,104 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+  --swiper-navigation-size: "30px"
+}
+
+.mySwiper-kal .swiper-button-next ,.mySwiper-kal .swiper-button-prev {
+  color: #fff;
+  background: gray;
+  padding: 15px;
+  border-radius: 80%;
+}
+
+
+.roman {
+  font-size: 63px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+.font-h {
+  font-family: 'Times New Roman';
+  line-height: 27px;
+  text-align: center;
+}
+
+
+
+.react-multiple-carousel__arrow--left {
+  color: #fff;
+  background: gray;
+  padding: 1px;
+  border-radius: 80%;
+}
+
+.react-multiple-carousel__arrow--right {
+  color: #fff;
+  background: gray;
+  padding: 1px;
+  border-radius: 80%;
+}
+.nazi{
+  border-top: 30px solid black;
+  
+
+  
+}
+.probar{
+  border-bottom: 30px solid black;
+ 
+}
+.nati{
+  
+  background-color: #0c0c1d;
+  border-bottom: 20px solid rgb(12, 107, 223);
+  box-shadow: 0px 5px 7px #fff;
+  display: flex;
+
+  img{
+    padding-top: 30px;
+    padding-bottom: 10px;
+  }
+  
+  
+}
+.kal{
+  padding-left: 40px;
+  
+}
+.no1{
+  background-color: #0c0c1d;
+}
+ .naxi{
+  padding-left: 30px;
+}
+
+
+.eda{
+  background-color: rgba(246, 242, 242,1 );
+  border-top: 20px solid rgba(53, 141, 246, 1 );
+  
+  
+  
+
+}
+.next{
+  padding-bottom: 20px;
+  img{
+    width: 160px;
+    height: 110px;
+    border-radius: 0px 72px 50px 0px;
+    
+  }
+  .nice{
+    height: 20px;
+    background-color: #fff;
+    border-radius: 20px solid black;
+    display: inline-block;
+  }
+ 
+  }
+
